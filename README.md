@@ -3,8 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=435&lines=Welcome+to+My+Profile!;Coding+is+My+Passion!" alt="typing" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=👋+Welcome+to+My+GitHub+Profile!;💻+Coding+is+My+Passion.;🚀+Always+Learning+New+Tech!" 
+    alt="Typing SVG"
+/>
 </p>
+
 
 ---
 
