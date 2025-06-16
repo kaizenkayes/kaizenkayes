@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizenkayes" alt="kaizenkayes" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+### 🙋‍♂️ About Me
 
-- 💬 Ask me about **react**
+- 🔭 I’m currently working on *React Projects*
+- 🌱 I’m currently learning *Full Stack Development (MERN)*
+- 👨‍💻 All of my projects are available at: [github.com/kaizenkayes](https://github.com/kaizenkayes)
+- 💬 Ask me about *JavaScript, React, Tailwind CSS*
+- 📫 How to reach me: *kayesmia674@gmail.com*
+- ⚡ Fun fact: I love coding at midnight 🌙
 
-- 📫 How to reach me **rogerscaptain8@gmail.com**
+---
 
-- ⚡ Fun fact **I Am Very Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
