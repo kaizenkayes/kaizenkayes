@@ -15,16 +15,25 @@
 - 💬 Ask me about *JavaScript, React, Tailwind CSS*
 - 📫 How to reach me: *kayesmia674@gmail.com*
 - ⚡ Fun fact: I love coding at midnight 🌙
+---
+### 📫 Connect with me
+<p>
+  <a href="mailto:kayesmia674@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+</p>
+
+## 📈 GitHub Stats
+![Nothing](...)
 
 ---
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+> 🔧 I write code my own way — no copy-paste.  
+> 💡 Ideas come from within, not just the screen.  
+> 🌍 Inspired by the web, but built with my touch.  
+> ❤️ I learn, I build, I share — with love.
 
 ### 🛠️ Tech Stack
-
 <p>
  <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -42,3 +51,5 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
 </p>
+
+
