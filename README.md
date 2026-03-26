@@ -1,105 +1,74 @@
-🧠 The Vision & Expertise
+__About Me
+_Name: Kaizen Kayes
+_Role: Full Stack Developer (MERN)
+_Currently Learning: Advanced React & System Design
+_Focus: Clean UI, Scalable Backend & Performance
+_Fun Fact: I do my best coding at midnight
+_The Vision & Expertise
 
-Passionate Front-End Developer | React & Next.js Enthusiast
+__Passionate Front-End Developer | React & Next.js Enthusiast
 
-I specialize in transforming complex ideas into elegant, high-performance web applications.
+__I specialize in transforming complex ideas into
+high-performance, scalable, and visually clean web applications.
 
-I focus on creating products that are not just functional —
-but fast, scalable, and enjoyable to use.
+_How Can I Help You
+_Convert business ideas into real applications
+_Build pixel-perfect modern UI
+_Architect scalable backend systems
+_Optimize performance for real users
 
-💡 How Can I Help You
+__I don’t just write code — I build experiences.
 
-I transform your business vision into real, production-ready digital products.
+_Let’s Collaborate
 
-✔ Pixel-perfect UI
-✔ Clean and maintainable code
-✔ Scalable architecture
-✔ Real-world performance focus
+📩 Email: kayesmia674@gmail.com
 
-I don’t just write code —
-I build the experience your product deserves.
+__Technical Stack & Skills
+_Frontend : (*React-js--*Next-js--*Zod--*TypeScript--*Tailwind-CSS--*Framen-Motion--*Shadcn-UI)
+_Backend : (*Node.js--*Express.js--*MongoDB--*Mongoose--*Redis--*PostgreSQL--*Prisma--*O-Auth
+_Tools & Others : (*Docker--*Git--*GitHub--*Vercel
 
-🤝 Let’s Collaborate
-
-If my work resonates with your vision, feel free to reach out:
-
-📩 kayesmia674@gmail.com
-
-🛠️ Technical Stack & Skills
-🎨 Frontend
-React
-Next.js
-TypeScript
-Tailwind CSS
-Framer Motion
-Shadcn UI
-⚙️ Backend
-Node.js
-Express.js
-MongoDB
-Mongoose ODM
-PostgreSQL
-🧩 Architecting & Engineering
-Designing scalable application structures
+__Architecting & Engineering
+Designing scalable application structure
 Crafting complex Mongoose schemas
 Managing real-world data relationships
-Building maintainable and future-proof systems
-⚡ Engineering Mindset
-Structure over shortcuts
-Performance over unnecessary complexity
-Clean code over clever code
+Writing maintainable & clean code
 
-Good code is not just working code —
-it’s readable, scalable, and reliable.
+__Engineering Mindset
+Structure > Hacks
+Performance > Complexity
+Clean Code > Clever Code
 
-🎯 Goal
+__Goal
 
-To continuously evolve as a developer by:
+__To continuously grow by learning, building, and pushing boundaries.
 
-Learning deeply
-Building consistently
-Pushing beyond comfort zones
-🕵️ The Persona & Mission
-🔓 The Mysterious Human
-The Persona:
-A mystery wrapped in logic, decoding the silent riddles of the web
-The Craft:
-Turning complex data into seamless, interactive experiences
-The Approach:
-I don’t just fix problems — I decode them
-The Mission:
-Building digital products that make people ask:
-“How did he do that?”
-🔁 The Infinite Quest
+__Persona & Mission
+__The Mysterious Human
+__A mystery wrapped in logic
+__I decode problems instead of avoiding them
+__Turning chaos into structured systems
+__Building things that make people say — “How?”
+__The Infinite Quest
 
-In the ever-evolving world of web development,
-I remain a dedicated learner.
-
-Every day is an opportunity to:
+__Every day I:
 
 Learn something new
 Build something better
-Refine my thinking
-🚀 Current Focus
+Improve my thinking
+
+__Current Focus
 Advanced React patterns
-Scalable frontend architecture
+Scalable architecture
 Backend system design
 Performance optimization
-📫 Connect With Me
-📊 GitHub Insights
-🔥 Philosophy
+_Connect With Me
+_GitHub Stats
+_Philosophy
 
-Learn. Build. Break. Improve. Repeat.
+__Learn. Build. Break. Improve. Repeat.
 
-No shortcuts.
-No copy-paste mentality.
-Only real growth.
+__Final Notes
 
-❤️ Final Words
-
-Thanks for visiting my profile.
-
-If you believe in building meaningful digital products —
-we’re already aligned.
-
-Let’s build something powerful together.
+__Thanks for visiting my profile 🤍
+__Let’s build something meaningful together.
