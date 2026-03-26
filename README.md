@@ -1,123 +1,105 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#FF5722;">Kaizen Kayes</span>
-</h1>
+🧠 The Vision & Expertise
 
-<h3 align="center">
-  🚀 Building the bridge between complex backend logic and seamless user experiences  
-  with <b>React, Next.js & the MERN Ecosystem</b>
-</h3>
+Passionate Front-End Developer | React & Next.js Enthusiast
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Crafting+Modern+Web+Experiences;Turning+Ideas+into+Real+Products;Always+Learning,+Always+Building" 
-  />
-</p>
+I specialize in transforming complex ideas into elegant, high-performance web applications.
 
----
+I focus on creating products that are not just functional —
+but fast, scalable, and enjoyable to use.
 
-## 🧠 The Vision & Expertise
+💡 How Can I Help You
 
-**Passionate Front-End Developer | React & Next.js Enthusiast**
+I transform your business vision into real, production-ready digital products.
 
-I focus on building modern, scalable, and high-performance web applications that are not only functional — but feel alive.
+✔ Pixel-perfect UI
+✔ Clean and maintainable code
+✔ Scalable architecture
+✔ Real-world performance focus
 
----
+I don’t just write code —
+I build the experience your product deserves.
 
-## 💡 How Can I Help You?
+🤝 Let’s Collaborate
 
-I transform complex business ideas into **clean, fast, and pixel-perfect web applications**.
+If my work resonates with your vision, feel free to reach out:
 
-I don’t just write code —  
-I design experiences that users actually enjoy.
+📩 kayesmia674@gmail.com
 
----
+🛠️ Technical Stack & Skills
+🎨 Frontend
+React
+Next.js
+TypeScript
+Tailwind CSS
+Framer Motion
+Shadcn UI
+⚙️ Backend
+Node.js
+Express.js
+MongoDB
+Mongoose ODM
+PostgreSQL
+🧩 Architecting & Engineering
+Designing scalable application structures
+Crafting complex Mongoose schemas
+Managing real-world data relationships
+Building maintainable and future-proof systems
+⚡ Engineering Mindset
+Structure over shortcuts
+Performance over unnecessary complexity
+Clean code over clever code
 
-## 🤝 Let’s Collaborate
+Good code is not just working code —
+it’s readable, scalable, and reliable.
 
-If my work aligns with your vision, feel free to reach out:
+🎯 Goal
 
-📩 **kayesmia674@gmail.com**
+To continuously evolve as a developer by:
 
----
+Learning deeply
+Building consistently
+Pushing beyond comfort zones
+🕵️ The Persona & Mission
+🔓 The Mysterious Human
+The Persona:
+A mystery wrapped in logic, decoding the silent riddles of the web
+The Craft:
+Turning complex data into seamless, interactive experiences
+The Approach:
+I don’t just fix problems — I decode them
+The Mission:
+Building digital products that make people ask:
+“How did he do that?”
+🔁 The Infinite Quest
 
-## 🛠️ Technical Stack & Skills
+In the ever-evolving world of web development,
+I remain a dedicated learner.
 
-### ⚙️ Tech Stack
+Every day is an opportunity to:
 
-**Frontend**
-- React  
-- Next.js  
-- TypeScript  
-- Tailwind CSS  
-- Framer Motion  
-- Shadcn UI  
+Learn something new
+Build something better
+Refine my thinking
+🚀 Current Focus
+Advanced React patterns
+Scalable frontend architecture
+Backend system design
+Performance optimization
+📫 Connect With Me
+📊 GitHub Insights
+🔥 Philosophy
 
-**Backend**
-- Node.js  
-- Express.js  
-- MongoDB  
-- Mongoose ODM  
-- PostgreSQL  
+Learn. Build. Break. Improve. Repeat.
 
----
+No shortcuts.
+No copy-paste mentality.
+Only real growth.
 
-### 🧩 Architecting
+❤️ Final Words
 
-- Designing scalable backend systems  
-- Crafting complex Mongoose schemas  
-- Managing real-world data relationships  
-- Structuring applications for long-term growth  
+Thanks for visiting my profile.
 
----
+If you believe in building meaningful digital products —
+we’re already aligned.
 
-## 🎯 Goal
-
-To keep learning.  
-To keep building.  
-To keep pushing the limits of the browser.
-
----
-
-## 🕵️ The Persona & Mission
-
-### 🔓 The Mysterious Human
-
-- **The Persona:**  
-  A mystery wrapped in logic, exploring the silent riddles of the web.
-
-- **The Craft:**  
-  Turning complex data into smooth, interactive experiences.
-
-- **The Approach:**  
-  I don’t just fix problems — I decode them.
-
-- **The Mission:**  
-  Building digital products that make people wonder — *“How did he do that?”*
-
----
-
-## 🔁 The Infinite Quest
-
-In this ever-evolving world of web development,  
-I remain a constant learner.
-
-Every day is a new challenge.  
-Every project is a new story.
-
-And I’m here — building, breaking, and rebuilding better.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaizenkayes&show_icons=true&theme=radical" />
-</p>
-
----
-
-## ❤️ Final Note
-
-Thanks for visiting my profile.  
-If you believe in building something meaningful —  
-we’re already on the same path.
+Let’s build something powerful together.
