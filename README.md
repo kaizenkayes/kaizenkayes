@@ -113,14 +113,6 @@ Every day I:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaizenkayes&show_icons=true&theme=radical" />
-</p>
-
----
-
 ## 🔥 Philosophy
 
 **Learn. Build. Break. Improve. Repeat.**
