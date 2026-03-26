@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 * Name: Kaizen Kayes
-* Role: Full Stack Developer (MERN)
+* Role: Front-End Developer (MERN) & Learning BackEnd
 * Currently Learning: Advanced React & System Design
 * Focus: Clean UI, Scalable Backend & Performance
 * Fun Fact: I do my best coding at midnight
